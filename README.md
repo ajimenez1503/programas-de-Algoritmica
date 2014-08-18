@@ -5,7 +5,7 @@ Conjunto de programas  de la asignatira de Algoritmica (ALG) de la universidad d
 
 -tema 2: divide y venceras
 
-    indices
+    	  indices
 	  mergesort	
 	  quicksort
 -tema 3: greedy
