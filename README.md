@@ -27,3 +27,6 @@ Conjunto de programas  de la asignatira de Algoritmica (ALG) de la universidad d
 		    mochila
 
 	  -Branch and Bound 
+	  		mochila
+			maximizar asignacion de tareas
+			minimizar asignacion de tareas
