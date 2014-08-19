@@ -30,3 +30,9 @@ Conjunto de programas  de la asignatira de Algoritmica (ALG) de la universidad d
 	  		mochila
 			maximizar asignacion de tareas
 			minimizar asignacion de tareas
+
+-tema 4:programacion dinamica
+	mochila 0-1
+	subsecuencia de menor longitud (LCS)
+	devolver cambio
+	caminos minimos-floyd
