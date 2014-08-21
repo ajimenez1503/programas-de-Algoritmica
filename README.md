@@ -37,3 +37,20 @@ Conjunto de programas  de la asignatira de Algoritmica (ALG) de la universidad d
 		subsecuencia de menor longitud (LCS)
 		devolver cambio
 		caminos minimos-floyd
+
+
+
+-Practica 2:
+
+	vertor unimodal
+
+-Practica 3
+
+	barco comercio
+	viajante de comercio (3 algoritmos)
+
+-Practica 4
+	
+	ITV
+	viajante de comercio
+		
