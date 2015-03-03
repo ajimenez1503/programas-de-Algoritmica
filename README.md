@@ -1,56 +1,50 @@
-programas-de-Algoritmica
+Programas de Algoritmica
 ========================
-
 Conjunto de programas  de la asignatira de Algoritmica (ALG) de la universidad de granada.
 
--tema 2: divide y venceras
+###Temas
 
-    	indices
-	  mergesort	
-	  quicksort
--tema 3: greedy
-	
-	  mochila 0-1
-	  mochila fraccionaria
-	  asignacion de tareas
-	  seleccionar actividad
-	  devolver cambio
-	  programas
+* **Tema 2: divide y venceras**
+  * Indices
+  * Mergesort	
+  * Quicksort
+* **Tema 3: greedy**
+  * Mochila 0-1
+  * Mochila fraccionaria
+  * Asignacion de tareas
+  * Seleccionar actividad
+  * Devolver cambio
+  * Programas
 
--tema 4:Técnicas de Exploración de Grafos
-	
-	  -Backtracking
-		    8 reinas
-		    suma de subconjuntos
-		    coloreo de grafos
-		    laberinto
-		    mochila
+* **Tema 4:Técnicas de Exploración de Grafos**
+  * Backtracking
+    * 8 reinas
+    * Suma de subconjuntos
+    * Coloreo de grafos
+    * Laberinto
+    * Mochila
 
-	  -Branch and Bound 
-	  		mochila
-			maximizar asignacion de tareas
-			minimizar asignacion de tareas
+  * Branch and Bound 
+    * Mochila
+    * Maximizar asignacion de tareas
+    * Minimizar asignacion de tareas
 
--tema 4:programacion dinamica
+* **Tema 4:Programacion Dinámica**
+   * Mochila 0-1
+   * Subsecuencia de menor longitud (LCS)
+   * Devolver cambio
+   * Caminos minimos-floyd
 
-		mochila 0-1
-		subsecuencia de menor longitud (LCS)
-		devolver cambio
-		caminos minimos-floyd
+###Prácticas
 
+* **Practica 2**
+  * Vector unimodal
 
+* **Practica 3**
+  * Barco Comercio
+  * Viajante de comercio (3 algoritmos)
 
--Practica 2:
-
-	vertor unimodal
-
--Practica 3
-
-	barco comercio
-	viajante de comercio (3 algoritmos)
-
--Practica 4
-	
-	ITV
-	viajante de comercio
+* **Practica 4**
+  * ITV
+  * Viajante de comercio
 		
